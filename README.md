@@ -78,11 +78,7 @@ The CNN consists of the following components:
 
 ### Training Curve
 
-> Add your loss graph here after uploading it to the repository.
-
-```markdown
-![Loss Curve](images/loss_curve.png)
-```
+![Training and Validation Losse](images/loss_curve.png)
 
 ### Observations
 
